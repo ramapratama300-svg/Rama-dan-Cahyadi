@@ -1,0 +1,6 @@
+{
+  "name": "NalarKuis",
+  "description": "Platform kuis interaktif dengan mode latihan, tantangan waktu, pembahasan lengkap, dan pembuat kuis kustom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
